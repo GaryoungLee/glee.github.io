@@ -6,6 +6,7 @@ url: "https://garyounglee.github.io/web/" # Site base URL
 
 author:
   name: Garyoung Lee
+  googlescholar: citations?user=T8DBkzkAAAAJ&hl=en
   github: GaryoungLee # GitHub username, used for GitHub icon on the top right
   linkedin: garyoung-lee # Your LinkedIn profile url name, used for LinkedIn icon on the top right
   email: garyounglee@gatech.edu # Used for email icon on the top right
