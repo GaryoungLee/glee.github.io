@@ -1,7 +1,7 @@
 title: Garyoung Lee # Shown in header on pages with full_logo: true
 short_logo: GL. # Shown in header on all pages by default unless full_logo: true is set
-description: > # The description for your site
-  Welcome to my website
+description: > Welcome to my website # The description for your site
+
 url: "https://garyounglee.github.io/web/" # Site base URL
 
 author:
@@ -50,4 +50,4 @@ compress_html:
 
 rss: false # RSS feed icon on or off
 dark_mode: true # Dark mode icon
-project_card_style: modal # Choose from masonry, modal, and flat
+project_card_style: masonry # Choose from masonry, modal, and flat
