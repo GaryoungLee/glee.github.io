@@ -12,7 +12,7 @@ sitemap:
 <br> My research keywords <br>
 `Traffic Flow` `MFD` `Car-following` `Self-driving` 
 
-<img src="assets/img/headshot.jpeg" alt="isolated" width="200"/> <br>
+<img src="assets/img/headshot.jpeg" alt="headshot" width="50"/> <br>
 WIP with my website
 <br>
 Contact me [garyounglee@gatech.edu](#) <br>
