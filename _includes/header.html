@@ -22,6 +22,11 @@
 <i class="fab fa-github"></i>
 </a>
 {% endif %}
+{% if site.author.googlescholar %}
+<a href="https://scholar.google.com/{{ site.author.googlescholar }}" class="social-links__entry" target="_blank">
+<i class="fas fa-google-scholar"></i>
+</a>
+{% endif %}
 {% if site.author.linkedin %}
 <a href="https://in.linkedin.com/in/{{ site.author.linkedin }}" class="social-links__entry" target="_blank">
 <i class="fab fa-linkedin-in"></i>
