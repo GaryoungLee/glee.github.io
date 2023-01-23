@@ -7,11 +7,12 @@ description: Garyoung's website
 sitemap:
   priority: 1.0
 ---
-<p class="describe-text">Hi 👋🏻 I am Garyoung Lee, a second-year PhD student in Georgia Tech 🐝.  `traffic flow` interested </p>
+<p class="describe-text">Hi 👋🏻 I am Garyoung Lee, a second-year PhD student in Georgia Tech 🐝. </p>
 
-<br>
+<br> My research keywords <br>
+`Traffic Flow` `MFD` `Car-following` `Self-driving` 
 
-<img src="/assets/img/headshot.jpeg" alt="isolated" width="200"/> <br>
+<img src="assets/img/headshot.jpeg" alt="isolated" width="200"/> <br>
 WIP with my website
 <br>
 Contact me [garyounglee@gatech.edu](#) <br>
