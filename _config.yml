@@ -2,7 +2,7 @@ title: Garyoung Lee # Shown in header on pages with full_logo: true
 short_logo: GL. # Shown in header on all pages by default unless full_logo: true is set
 description: >  # The description for your site
     Welcome to my website
-url: "https://garyounglee.github.io/web/" # Site base URL
+url: "https://garyounglee.github.io/web" # Site base URL
 
 author:
   name: Garyoung Lee
@@ -10,7 +10,7 @@ author:
   github: GaryoungLee # GitHub username, used for GitHub icon on the top right
   linkedin: garyoung-lee # Your LinkedIn profile url name, used for LinkedIn icon on the top right
   email: garyounglee@gatech.edu # Used for email icon on the top right
-  homepage: https://garyounglee.github.io/web/ # This links to your name in post meta
+  homepage: https://garyounglee.github.io/web # This links to your name in post meta
   twitter: garyounglee # Twitter username, used for Twitter Card Analytics 
 
 disqus_name: # Setting this will turn on Disqus comments
