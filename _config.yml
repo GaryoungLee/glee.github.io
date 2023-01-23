@@ -8,7 +8,7 @@ author:
   name: Garyoung Lee
   github: GaryoungLee # GitHub username, used for GitHub icon on the top right
   linkedin: garyoung-lee # Your LinkedIn profile url name, used for LinkedIn icon on the top right
-  email: example@example.com # Used for email icon on the top right
+  email: garyounglee@gatech.edu # Used for email icon on the top right
   homepage: https://garyounglee.github.io/web/ # This links to your name in post meta
   twitter: garyounglee # Twitter username, used for Twitter Card Analytics 
 
@@ -48,6 +48,6 @@ compress_html:
   profile: false
   startings: [html, head, body]
 
-rss: false # RSS feed icon on or off
+rss: true # RSS feed icon on or off
 dark_mode: true # Dark mode icon
 project_card_style: modal # Choose from masonry, modal, and flat
