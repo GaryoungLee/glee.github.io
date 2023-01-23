@@ -1,7 +1,7 @@
 title: Garyoung Lee # Shown in header on pages with full_logo: true
 short_logo: GL. # Shown in header on all pages by default unless full_logo: true is set
-description: > Welcome to my website # The description for your site
-
+description: >  # The description for your site
+    Welcome to my website
 url: "https://garyounglee.github.io/web/" # Site base URL
 
 author:
