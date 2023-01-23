@@ -9,8 +9,10 @@ sitemap:
 ---
 <p class="describe-text">Hi 👋🏻 I am Garyoung Lee, a second-year PhD student in Georgia Tech 🐝. </p>
 
-<br> My research keywords <br>
-`Traffic Flow` `MFD` `Car-following` `Self-driving` 
+<br> 
+_**My research keywords**_
+<br>
+[`Traffic Flow`](tag1)  `MFD`  `Car-following`  `Self-driving` 
 
 <img src="assets/img/headshot.jpeg" alt="headshot" width="50"/> <br>
 WIP with my website
