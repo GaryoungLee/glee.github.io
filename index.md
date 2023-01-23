@@ -14,7 +14,7 @@ _**My research keywords**_
 <br>
 [`Traffic Flow`](tag1)  `MFD`  `Car-following`  `Self-driving` 
 
-<img src="assets/img/headshot.jpeg" alt="headshot" width="50"/> <br>
+<img src="assets/img/headshot.jpeg" style="width:30px;height:auto;"/> <br>
 WIP with my website
 <br>
 Contact me [garyounglee@gatech.edu](#) <br>
