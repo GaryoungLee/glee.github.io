@@ -15,7 +15,7 @@ sitemap:
         align-items: center;
       }
       .image {
-        max-width: 50%;
+        max-width: 60%;
         height: auto;
       }
       .text {
@@ -27,14 +27,14 @@ sitemap:
     <div class="container">
       <img class="image" src="assets/img/headshot_lightgreen-03.png">
       <div class="text">
-        <h2>Title</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor justo vel urna mollis, a commodo quam egestas.</p>
+        <p class="describe-text">Hi 👋🏻 I am a PhD student working with [Dr. Jorge Laval](#) at the [Georgia Institute of Technology](#) 🐝. </p>
+        <p> My research focuses on [`Traffic Flow`](tag1), `MFD`,  `Car-following`, and  `Self-driving`. A complete CV is available [here](#). </p>
+        <p> I am still WIP with my website. </p>
       </div>
     </div>
   </body>
 </html>
 
-<p class="describe-text">Hi 👋🏻 I am a PhD student in Georgia Tech 🐝. </p>
 
 <br> 
 _**My research keywords**_
@@ -42,9 +42,7 @@ _**My research keywords**_
 [`Traffic Flow`](tag1)  `MFD`  `Car-following`  `Self-driving` 
 
 WIP with my website
-<br>
-Contact me [garyounglee@gatech.edu](#) <br>
-Download my [CV](#). <br>
+
 
 
 
