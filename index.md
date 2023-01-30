@@ -36,7 +36,7 @@ sitemap:
 </html>
 
 
-
+<ul class = class="ul-edu fa-ul"> 
   <h2> Education </h2>
     <li>
       <i class="fa-li fa fa-graduation-cap"></i>
@@ -60,7 +60,7 @@ sitemap:
         <p class="institution">Seoul National University, South Korea</p>
       </div>
     </li>
-
+</ul>
 
 
 
