@@ -19,9 +19,10 @@ sitemap:
             height: auto;
         }
         .center-fit {
-            max-width: 30%;
-            max-height: 100vh;
-            margin: auto;
+           max-width: auto;
+           max-height: 100vh;
+           margin: auto;
+         justify-self: start;
         }
     </style>
 </head>
