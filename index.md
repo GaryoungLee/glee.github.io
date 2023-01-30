@@ -7,6 +7,7 @@ description: Garyoung's website
 sitemap:
   priority: 1.0
 ---
+
 <html>
   <head>
     <style>
@@ -15,11 +16,22 @@ sitemap:
         align-items: center;
       }
       .image {
-        max-width: 60%;
+        max-width: 50%;
         height: auto;
       }
       .text {
         margin-left: 20px;
+      }
+
+      /* Add media query */
+      @media (max-width: 767px) {
+        .container {
+          flex-direction: column;
+        }
+        .text {
+          margin-left: 0;
+          margin-top: 20px;
+        }
       }
     </style>
   </head>
@@ -36,8 +48,9 @@ sitemap:
 </html>
 
 
-<ul class = class="ul-edu fa-ul"> 
-  <h2> Education </h2>
+
+<h2> Education </h2>
+<ul class="ul-edu fa-ul"> 
     <li>
       <i class="fa-li fa fa-graduation-cap"></i>
       <div class="description">
