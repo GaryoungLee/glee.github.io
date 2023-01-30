@@ -246,6 +246,28 @@ a.logo:hover {
   font-weight: 700;
   font-size: 130%;
 }
+ul.ul-edu {
+  list-style: none;
+}
+
+ul.ul-edu li {
+  position: relative;
+  padding: 0px 15px 4px 3px;
+}
+
+ul.ul-edu li .description p {
+  margin: 0;
+}
+
+ul.ul-edu li .description p.course {
+  font-size: 0.9rem;
+}
+
+ul.ul-edu li .description p.institution {
+  font-size: 0.75rem;
+  color: rgba(0,0,0,0.6);
+}
+
 
 /* =Small screen */ /*************************************************************/
 @media (max-width: 600px) {
