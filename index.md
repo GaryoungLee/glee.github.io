@@ -16,7 +16,12 @@ sitemap:
         }
         .imgbox {
             display: grid;
-            height: 30%;
+            height: auto;
+        }
+        .center-fit {
+            max-width: 30%;
+            max-height: 100vh;
+            margin: auto;
         }
     </style>
 </head>
