@@ -8,31 +8,31 @@ sitemap:
   priority: 1.0
 ---
 <html>
-<head>
+  <head>
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-        }
-        .imgbox {
-            display: grid;
-            height: auto;
-        }
-        .center-fit {
-           max-width: auto;
-           max-height: 100vh;
-           margin: auto;
-         justify-self: start;
-        }
+      .container {
+        display: flex;
+        align-items: center;
+      }
+      .image {
+        max-width: 50%;
+        height: auto;
+      }
+      .text {
+        margin-left: 20px;
+      }
     </style>
-</head>
-<body>
-<div class="imgbox">
-    <img class="center-fit" src='assets/img/headshot_lighhtgreen-03.png'>
-</div>
-</body>
+  </head>
+  <body>
+    <div class="container">
+      <img class="image" src="assets/img/headshot_lightgreen-03.png">
+      <div class="text">
+        <h2>Title</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor justo vel urna mollis, a commodo quam egestas.</p>
+      </div>
+    </div>
+  </body>
 </html>
-
 
 <p class="describe-text">Hi 👋🏻 I am a PhD student in Georgia Tech 🐝. </p>
 
