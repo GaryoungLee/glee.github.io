@@ -13,10 +13,10 @@ sitemap:
     <style>
       .container {
         display: flex;
-        align-items: center;
+        align-items: left;
       }
       .image {
-        max-width: 50%;
+        max-width: 60%;
         height: auto;
       }
       .text {
