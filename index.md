@@ -60,7 +60,7 @@ sitemap:
 <h2> Education </h2>
 <ul class="ul-edu fa-ul"> 
     <li>
-      <i class="fa-li fas fa-carrot" style="color: orange;"></i>
+      <i class="fa-li fas fa-carrot" style="color: #ff8c00;"></i>
       <div class="description">
         <p class="course">Ph.D. in Civil and Environmental Engineering, (2021 ~ )</p>
         <p class="institution">Georgia Institute of Technology</p>
@@ -68,14 +68,14 @@ sitemap:
     </li>
 
    <li>
-      <i class="fa-li fa fa-graduation-cap"></i>
+      <i class="fa-li fa fa-graduation-cap" style="color: #565656;"></i>
       <div class="description">
         <p class="course">M.S. in Civil and Environmental Engineering, (2019 ~ 2021) </p>
         <p class="institution">Seoul National University, South Korea</p>
       </div>
     </li>
     <li>
-      <i class="fa-li fa fa-graduation-cap"></i>
+      <i class="fa-li fa fa-graduation-cap" style="color: #565656;"></i>
       <div class="description">
         <p class="course">B.S. in Civil and Environmental Engineering, (2015 ~ 2019) </p>
         <p class="institution">Seoul National University, South Korea</p>
