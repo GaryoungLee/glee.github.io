@@ -60,7 +60,7 @@ sitemap:
 <h2> Education </h2>
 <ul class="ul-edu fa-ul"> 
     <li>
-      <i class="fa-li fas fa-carrot" style="color: #964303;"></i>
+      <i class="fa-li fas fa-carrot" style="color: #ff6f00;"></i>
       <div class="description">
         <p class="course">Ph.D. in Civil and Environmental Engineering, (2021 ~ )</p>
         <p class="institution">Georgia Institute of Technology</p>
