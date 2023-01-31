@@ -16,7 +16,7 @@ sitemap:
         align-items: left;
       }
       .image {
-        max-width: 60%;
+        max-width: 40%;
         height: auto;
       }
       .text {
