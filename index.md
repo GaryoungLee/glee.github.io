@@ -82,9 +82,17 @@ sitemap:
       </div>
     </li>
 </ul>
-<iframe src="google35c71d7b1138dd82.html" width="100%" height="500"></iframe>
+
 
 </html>
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q76TKS2GKN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-Q76TKS2GKN');
+</script>
 
