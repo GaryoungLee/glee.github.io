@@ -45,7 +45,7 @@ sitemap:
           </div> 
     </div>
   </body>
-</html>
+
 
 
 
@@ -75,19 +75,7 @@ sitemap:
     </li>
 </ul>
 
+</html>
 
 
 
-
-
-## 🎓 Education
-### Georgia Institute of Technology 
-PhD in Civil & Environmental Engineering 
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
