@@ -42,7 +42,7 @@ sitemap:
     <div class="container">
       <img class="image" src="assets/img/headshot_lightgreen-03.png">
       <div class="text">
-             <p class="describe-text">Hi 👋🏻 I am a PhD student working with <a href="#">Dr. Jorge Laval</a> at the <a href="#">Georgia Institute of     Technology</a> 🐝. </p>
+             <p class="describe-text">Hi 👋🏻 I am a PhD student working with Dr. <a href="Laval">Jorge Laval</a> at the <a href="#">Georgia Institute of     Technology</a> 🐝. </p>
               <p> My research focuses on <a href="#"><code>Traffic Flow</code></a>, <a href="#"><code>Multimodal Freight Distribution</code></a>, <a href="#"><code>Car-following</code></a>, and <a href="#"><code>Self-driving</code></a>. A complete CV is available <a href="#">here</a>. </p>
               <p> I am still WIP with my website. </p>
           </div> 
