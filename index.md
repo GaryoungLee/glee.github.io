@@ -42,9 +42,9 @@ sitemap:
     <div class="container">
       <img class="image" src="assets/img/headshot_lightgreen-03.png">
       <div class="text">
-             <p class="describe-text">Hi 👋🏻 I am a PhD student working with Dr. <a href="Laval">Jorge Laval</a> at the <a href="#">Georgia Institute of     Technology</a> 🐝. </p>
-              <p> My research focuses on <a href="#"><code>Traffic Flow</code></a>, <a href="#"><code>Multimodal Freight Distribution</code></a>, <a href="#"><code>Car-following</code></a>, and <a href="#"><code>Self-driving</code></a>. A complete CV is available <a href="#">here</a>. </p>
-              <p> I am still WIP with my website. </p>
+             <p class="describe-text">Hi 👋🏻 I am a PhD student working with Dr. <a href="Laval">Jorge Laval</a> at the <a href="GT">Georgia Institute of     Technology</a> 🐝. </p>
+              <p> My research focuses on <a href="#"><code>Traffic Flow</code></a>, <a href="#"><code>Self-driving</code></a>, <a href="#"><code>Car-following</code></a>, and <a href="#"><code>MFD</code></a>. A complete CV is available <a href="#">here</a>. </p>
+              <p> WIP with my website 🚧. </p>
           </div> 
     </div>
   </body>
@@ -60,7 +60,7 @@ sitemap:
 <h2> Education </h2>
 <ul class="ul-edu fa-ul"> 
     <li>
-      <i class="fa-li fas fa-carrot" style="color: #ff6f00;"></i>
+      <i class="fa-li fas fa-carrot" style="color: #919191;"></i>
       <div class="description">
         <p class="course">Ph.D. in Civil and Environmental Engineering, (2021 ~ )</p>
         <p class="institution">Georgia Institute of Technology</p>
