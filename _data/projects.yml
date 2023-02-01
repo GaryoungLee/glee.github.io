@@ -5,7 +5,7 @@
   description_more: > # Description shown only when the project card is expanded, HTML only
     <p>Under Review</p> 
   action_buttons: > # Action buttons for project, HTML only
-    <a href="MFD" target="_blank" class="btn btn-dark mb-1"><i class="fa-regular fa-file"></i> &nbsp Preprint</a>
+    <a href="MFD" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-file"></i> &nbsp Preprint</a>
   
   tags: [MFD, Traffic-Flow] # A list of tags
 
