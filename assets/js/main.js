@@ -13,7 +13,7 @@ function render_dark_mode_icon(darkmode, id) {
     document.getElementById(id).classList.remove("fa-sun");
     document.getElementById(id).classList.add("fa-moon");
     for (i = 0; i < x.length; i++) {
-      x[i].style["mix-blend-mode"] = "screen";
+      x[i].style["mix-blend-mode"] = "multiply";
     }
   } else {
     document.getElementById(id).classList.remove("fa-moon");
