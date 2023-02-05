@@ -161,6 +161,7 @@ a.logo:hover {
 }
 
 .page-title__text {
+  font-family: 'Lato';
   font-weight: 700;
   font-size: 120%;
 }
@@ -169,6 +170,7 @@ a.logo:hover {
   font-weight: 400;
   font-size: 60%;
   color: #828282;
+  font-family: 'Lato';
 }
 
 /* =Post teasers */ /*************************************************************/
