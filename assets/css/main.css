@@ -17,21 +17,21 @@ a {
   position: relative;
 }
 
-a::before {
-  content: '';
-  background-color: hsla(196, 61%, 58%, .75);
-  position: absolute;
-  left: 0;
-  bottom: 3px;
-  width: 100%;
-  height: 8px;
-  z-index: -1;
-  transition: all .3s ease-in-out;
+a:hover {
+  color: transparent;
+  -webkit-text-stroke: 2px #6d8c7e;
 }
 
-a:hover::before {
-  bottom: 0;
-  height: 100%;
+
+@supports not(-webkit-text-stroke: 2px red) {
+  a:hover {
+    text-shadow:
+      3px 3px 0 var(--mainColor),
+      -1px -1px 0 var(--mainColor),
+      1px -1px 0 var(--mainColor),
+      -1px 1px 0 var(--mainColor),
+      1px 1px 0 var(--mainColor);
+  }
 }
 
 p,
@@ -127,7 +127,6 @@ a.logo:hover {
 .menu {
   color: #828282;
   font-family: 'Abril Fatface', cursive;
-  letter-spacing: 0.01em;
   font-size: 120%;
   margin: 0px;
   margin-top: 6px;
