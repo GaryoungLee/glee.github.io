@@ -91,6 +91,7 @@ a.logo:hover {
   font-family: 'Abril Fatface', cursive;
   font-size: 250%;
   font-weight: 800;
+  letter-spacing: .2rem;
   color: #c13b11;
   display: block;
   text-decoration: none;
@@ -98,6 +99,7 @@ a.logo:hover {
 
 .menu {
   color: #828282;
+  font-family: 'Abril Fatface', cursive;
   font-size: 150%;
   margin: 0px;
   margin-top: 6px;
