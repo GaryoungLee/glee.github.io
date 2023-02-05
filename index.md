@@ -38,11 +38,13 @@ sitemap:
       }
     </style>
   </head>
+  
+  
   <body>
     <div class="container">
       <img class="image" src="assets/img/headshot_lightgreen-03.png">
       <div class="text">
-             <p>Hi 👋🏻 I am a PhD student working with Dr. <a href="Laval">Jorge Laval</a> at the <a href="GT">Georgia Institute of Technology</a> 🐝. </p>
+             <p class="display-text">Hi 👋🏻 I am a PhD student working with Dr. <a href="Laval">Jorge Laval</a> at the <a href="GT">Georgia Institute of Technology</a> 🐝. </p>
               <p>My research focuses on <a href="#"><code>Traffic Flow</code></a>, <a href="#"><code>Self-driving</code></a>, <a href="#"><code>Car-following</code></a>, and <a href="#"><code>MFD</code></a>. A complete CV is available <a href="#">here</a>. </p>
               <p> WIP with my website 🚧. </p>
           </div> 
@@ -60,7 +62,7 @@ sitemap:
 <h2> Education </h2>
 <ul class="ul-edu fa-ul"> 
     <li>
-      <i class="fa-li fas fa-carrot" style="color: #919191;"></i>
+      <i class="fa-li fas fa-carrot" style="color: #6d8c7e;"></i>
       <div class="description">
         <p class="course">Ph.D. in Civil and Environmental Engineering, (2021 ~ )</p>
         <p class="institution">Georgia Institute of Technology</p>
@@ -68,14 +70,14 @@ sitemap:
     </li>
 
    <li>
-      <i class="fa-li fa fa-graduation-cap" style="color: #919191;"></i>
+      <i class="fa-li fa fa-graduation-cap" style="color: #6d8c7e;"></i>
       <div class="description">
         <p class="course">M.S. in Civil and Environmental Engineering, (2019 ~ 2021) </p>
         <p class="institution">Seoul National University, South Korea</p>
       </div>
     </li>
     <li>
-      <i class="fa-li fa fa-graduation-cap" style="color: #919191;"></i>
+      <i class="fa-li fa fa-graduation-cap" style="color: #6d8c7e;"></i>
       <div class="description">
         <p class="course">B.S. in Civil and Environmental Engineering, (2015 ~ 2019) </p>
         <p class="institution">Seoul National University, South Korea</p>
