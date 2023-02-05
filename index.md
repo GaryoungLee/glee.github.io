@@ -54,12 +54,10 @@ sitemap:
 
 <br>
 <br>
-<br>
-<br> 
 
 
 <html>
-<h2> Education </h2>
+<h4> Education </h4>
 <ul class="ul-edu fa-ul"> 
     <li>
       <i class="fa-li fas fa-carrot" style="color: #6d8c7e;"></i>
