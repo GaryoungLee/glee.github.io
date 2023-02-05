@@ -17,23 +17,37 @@ a {
   position: relative;
 }
 
-a:hover {
-  color: transparent;
-  -webkit-text-stroke: 2px #6d8c7e;
+p {
+  a {
+        display: inline-block;
+        position: relative;
+        text-decoration: none;
+        color: inherit;
+        margin: 0 var(--spacing, 0px);
+        transition: margin .25s;
+        svg {
+            width: 76px;
+            height: 40px;
+            position: absolute;
+            left: 50%;
+            bottom: 0;
+            transform: translate(-50%, 7px) translateZ(0);
+            fill: none;
+            stroke: var(--stroke, var(--line));
+            stroke-linecap: round;
+            stroke-width: 2px;
+            stroke-dasharray: var(--offset, 69px) 278px;
+            stroke-dashoffset: 361px;
+            transition: stroke .25s ease var(--stroke-delay, 0s), stroke-dasharray .35s;
+        }
+        &:hover {
+            --spacing: 4px;
+            --stroke: var(--line-active);
+            --stroke-delay: .1s;
+            --offset: 180px;
+        }
+    }
 }
-
-
-@supports not(-webkit-text-stroke: 2px red) {
-  a:hover {
-    text-shadow:
-      3px 3px 0 var(--mainColor),
-      -1px -1px 0 var(--mainColor),
-      1px -1px 0 var(--mainColor),
-      -1px 1px 0 var(--mainColor),
-      1px 1px 0 var(--mainColor);
-  }
-}
-
 p,
 ul,
 ol,
