@@ -17,37 +17,52 @@ a {
   position: relative;
 }
 
-p {
-  a {
-        display: inline-block;
-        position: relative;
-        text-decoration: none;
-        color: inherit;
-        margin: 0 var(--spacing, 0px);
-        transition: margin .25s;
-        svg {
-            width: 76px;
-            height: 40px;
-            position: absolute;
-            left: 50%;
-            bottom: 0;
-            transform: translate(-50%, 7px) translateZ(0);
-            fill: none;
-            stroke: var(--stroke, var(--line));
-            stroke-linecap: round;
-            stroke-width: 2px;
-            stroke-dasharray: var(--offset, 69px) 278px;
-            stroke-dashoffset: 361px;
-            transition: stroke .25s ease var(--stroke-delay, 0s), stroke-dasharray .35s;
-        }
-        &:hover {
-            --spacing: 4px;
-            --stroke: var(--line-active);
-            --stroke-delay: .1s;
-            --offset: 180px;
-        }
+
+.link {
+  position: relative;
+  transition: clip-path 275ms ease;
+  &:hover span::before, &:focus span::before {
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+  }
+  span {
+    position: relative;
+    display: inline-block;
+    color: #6d8c7e;
+    &::before {
+      position: absolute;
+      content: attr(data-content);
+      color: #a1bfa7;
+      text-decoration: underline;
+      text-decoration-color: #a1bfa7;
+      clip-path: polygon(0 0, 0 0, 0% 100%, 0 100%);
+      transition: clip-path 275ms ease;
     }
+  }
 }
+
+span.dotted::before {
+  text-decoration-style: dotted;
+}
+
+span.dashed::before {
+  text-decoration-style: dashed;
+}
+
+span.double::before {
+  text-decoration-style: double;
+}
+
+span.wavy::before {
+  text-decoration-style: wavy;
+}
+
+span.line-through::before {
+  text-decoration-line: line-through;
+}
+
+
+
+
 p,
 ul,
 ol,
