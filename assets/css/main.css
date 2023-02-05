@@ -272,8 +272,8 @@ a.logo:hover {
 
 .describe-text {
   color: #565656;
-  font-style: italic;
-  font-weight: 700;
+  font-style: normal;
+  font-weight: 600;
   font-size: 130%;
 }
 
