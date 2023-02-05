@@ -8,7 +8,11 @@
 @import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
 @import url('https://fonts.googleapis.com/css?family=Special+Elite');
 @import url('https://fonts.googleapis.com/css?family=Cinzel+Decorative');
-@import url('https://fonts.googleapis.com/css?family=Croissant+One&family=Lancelot&family=Pirata+One&family=UnifrakturMaguntia');
+@import url('https://fonts.googleapis.com/css?family=Croissant+One');
+@import url('https://fonts.googleapis.com/css?family=Lancelot');
+@import url('https://fonts.googleapis.com/css?family=Pirata+One');
+@import url('https://fonts.googleapis.com/css?family=UnifrakturMaguntia');
+
 
 
 a {
@@ -17,50 +21,9 @@ a {
   position: relative;
 }
 
-
-.link {
-  position: relative;
-  transition: clip-path 275ms ease;
-  &:hover span::before, &:focus span::before {
-    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
-  }
-  span {
-    position: relative;
-    display: inline-block;
-    color: #6d8c7e;
-    &::before {
-      position: absolute;
-      content: attr(data-content);
-      color: #a1bfa7;
-      text-decoration: underline;
-      text-decoration-color: #a1bfa7;
-      clip-path: polygon(0 0, 0 0, 0% 100%, 0 100%);
-      transition: clip-path 275ms ease;
-    }
-  }
+a:hover{
+  color: #a1bf7a;
 }
-
-span.dotted::before {
-  text-decoration-style: dotted;
-}
-
-span.dashed::before {
-  text-decoration-style: dashed;
-}
-
-span.double::before {
-  text-decoration-style: double;
-}
-
-span.wavy::before {
-  text-decoration-style: wavy;
-}
-
-span.line-through::before {
-  text-decoration-line: line-through;
-}
-
-
 
 
 p,
@@ -144,10 +107,9 @@ th {
 
 .logo,
 a.logo:hover {
-  font-family: 'Abril Fatface', cursive;
+  font-family: 'Croissant One';
   font-size: 220%;
   font-weight: 900;
-  letter-spacing: .15rem;
   color: #c13b11;
   display: block;
   text-decoration: none;
@@ -155,7 +117,7 @@ a.logo:hover {
 
 .menu {
   color: #828282;
-  font-family: 'Abril Fatface', cursive;
+  font-family: 'Croissant One';
   font-size: 120%;
   margin: 0px;
   margin-top: 6px;
