@@ -47,6 +47,7 @@ h6 {
   padding-top: 5px;
   font-family: 'Lato';
   font-weight: 800;
+  font-style: italic;
 }
 
 img {
@@ -234,7 +235,7 @@ a.logo:hover {
 }
 
 .about__text {
-  font-size: 100%;
+  font-size: 60%;
 }
 
 .center-text {
