@@ -190,16 +190,20 @@ sitemap:
       <div class="description">
         <p class="course">Volunteer Works </p>
         <p class="institution">1. Water-Purification-System Construction Project in Phuoc Loc Elementary School, Vietnam</p>
-        <p class="institution">Undergraduate Construction Engineer and Site Manager, SNU Social Responsibility</p>
+        <p class="institution">Undergraduate Construction Engineer and Site Manager, <em>SNU Social Responsibility</em></p>
         <p class="institution">2. Philippines Sustainable Water Circulation Project</p>
-        <p class="institution">Undergraduate Researcher, _**Hyundai Motor Company CSR Project**_</p>
+        <p class="institution">Undergraduate Researcher, <em>Hyundai Motor Company CSR Project</em></p>
       </div>
     </li>
   </ul>    
   
 <br>
 <h4> Skills </h4> 
-  
+ <div class="icons">
+   <i class="fa-li fas fa-hand-holding-water" style="color: #6d8c7e;"></i>
+   <i class="fa-li fas fa-hand-holding-water" style="color: #6d8c7e;"></i>
+   <i class="fa-li fas fa-hand-holding-water" style="color: #6d8c7e;"></i>
+ </div>
   
   
 </html>
