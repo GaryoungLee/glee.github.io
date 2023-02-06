@@ -145,7 +145,6 @@ sitemap:
   
 <br>
 <h4> Teaching Experiences</h4> 
-  <br>
 <ul class="ul-edu fa-ul"> 
     <li>
       <i class="fa-li fas fa-pencil" style="color: #6d8c7e;"></i>
