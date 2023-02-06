@@ -166,9 +166,40 @@ sitemap:
     </li>
   </ul>  
   
-  
-  
+<br>
+<h4> Extracurricular</h4> 
+<ul class="ul-edu fa-ul"> 
+    <li>
+      <i class="fa-li fas fa-hand-holding-heart" style="color: #6d8c7e;"></i>
+      <div class="description">
+        <p class="course">Georgia Tech Civil and Environmental Engineering Korean Student Association (GTCEEKSA)</p>
+        <p class="institution">President 2022-2023</p>
+      </div>
+    </li>
 
+    <li>
+      <i class="fa-li fas fa-hand-holding-heart" style="color: #6d8c7e;"></i>
+      <div class="description">
+        <p class="course">Student Council of the College of Engineering, Seoul National University </p>
+        <p class="institution">Director of Public Relations Bureau</p>
+      </div>
+    </li>
+  
+      <li>
+      <i class="fa-li fas fa-hand-holding-water" style="color: #6d8c7e;"></i>
+      <div class="description">
+        <p class="course">Volunteer Works </p>
+        <p class="institution">1. Water-Purification-System Construction Project in Phuoc Loc Elementary School, Vietnam</p>
+        <p class="institution">Undergraduate Construction Engineer and Site Manager, SNU Social Responsibility</p>
+        <p class="institution">2. Philippines Sustainable Water Circulation Project</p>
+        <p class="institution">Undergraduate Researcher, _**Hyundai Motor Company CSR Project**_</p>
+      </div>
+    </li>
+  </ul>    
+  
+<br>
+<h4> Skills </h4> 
+  
   
   
 </html>
