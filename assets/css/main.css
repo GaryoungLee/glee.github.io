@@ -163,7 +163,9 @@ a.logo:hover {
 .icons {
   display: grid;
   grid-template-columns: auto auto auto auto;
-  column-gap: 10px;
+  column-gap: 47px;
+  justify-content: left;
+  font-size: xxx-large;
 
 }
 
