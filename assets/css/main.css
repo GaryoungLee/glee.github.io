@@ -169,6 +169,18 @@ a.logo:hover {
 
 }
 
+.gallery {
+  margin: 5px;
+  float: left;
+  width: 180px;
+}
+
+
+.desc {
+  padding: 15px;
+  text-align: center;
+}
+
 /* =Titles */ /*************************************************************/
 .page-title {
   margin: 30px auto;
