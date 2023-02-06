@@ -144,7 +144,8 @@ sitemap:
 </ul>  
   
 <br>
-<h4> Teaching </h4>  
+<h4> Teaching Experiences</h4> 
+  <br>
 <ul class="ul-edu fa-ul"> 
     <li>
       <i class="fa-li fas fa-pencil" style="color: #6d8c7e;"></i>
@@ -164,9 +165,12 @@ sitemap:
         <p class="institution">Traffic Engineering and Laboratory, Fall 2019</p>
       </div>
     </li>
+  </ul>  
+  
+  
   
 
-</ul>  
+  
   
 </html>
 
