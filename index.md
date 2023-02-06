@@ -87,7 +87,8 @@ sitemap:
       </div>
     </li>
 </ul>
-  
+<br>
+<br>
   
 <h4> Awards & Scholarship & Fellowship </h4>  
 <ul class="ul-edu fa-ul"> 
@@ -100,7 +101,7 @@ sitemap:
     </li>
 
     <li>
-      <i class="fa-li fas fa-file-certificate" style="color: #6d8c7e;"></i>
+      <i class="fa-li fas fa-award" style="color: #6d8c7e;"></i>
       <div class="description">
         <p class="course">External Advisory Board Fellowship </p>
         <p class="institution">Georgia Institute of Technology, Aug. 2021</p>
@@ -108,7 +109,7 @@ sitemap:
     </li>
   
     <li>
-      <i class="fa-li fa fa-file-certificate" style="color: #6d8c7e;"></i>
+      <i class="fa-li fa fa-award" style="color: #6d8c7e;"></i>
       <div class="description">
         <p class="course"> Brain Korea 21 Scholarship </p>
         <p class="institution">Mar. 2019 - Feb. 2021</p>
@@ -132,17 +133,41 @@ sitemap:
     </li> 
 
       <li>
-      <i class="fa-li fa fa-file-certificate" style="color: #6d8c7e;"></i>
+      <i class="fa-li fa fa-award" style="color: #6d8c7e;"></i>
       <div class="description">
         <p class="course"> Merit-based Scholarship </p>
-        <p class="course"> Second and Third Semester of Graduate School </p>
-        <p class="course"> Fourth, Fifth, and Seventh Semester of Undergraduate School </p>
+        <p class="institution"> - Second and Third Semester of Graduate School </p>
+        <p class="institution"> - Fourth, Fifth, and Seventh Semester of Undergraduate School </p>
         <p class="institution">Seoul National University, South Korea</p>
       </div>
     </li>
 </ul>  
   
+<br>
+<br>
+<h4> Teaching </h4>  
+<ul class="ul-edu fa-ul"> 
+    <li>
+      <i class="fa-li fas fa-chalkboard-user" style="color: #6d8c7e;"></i>
+      <div class="description">
+        <p class="course">Teaching Assistant, Georgia Institute of Technology </p>
+        <p class="institution">CEE3770 Statistics and Applications, Fall 2022</p>
+        <p class="institution">CEE3770 Statistics and Applications, Fall 2021</p>
+      </div>
+    </li>
+
+    <li>
+      <i class="fa-li fas fa-chalkboard-user" style="color: #6d8c7e;"></i>
+      <div class="description">
+        <p class="course">Teaching Assistant, Seoul National University </p>
+        <p class="institution">Transportation Optimization Techniques, Spring 2020</p>
+        <p class="institution">Transportation Planning and Laboratory, Spring 2020</p>
+        <p class="institution">Traffic Engineering and Laboratory, Fall 2019</p>
+      </div>
+    </li>
   
+
+</ul>  
   
 </html>
 
