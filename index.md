@@ -200,19 +200,23 @@ sitemap:
 <br>
 <h4> Skills </h4> 
  <div class="gallery">
-   <i class="fab fa-python" style="color: #f9e487;"></i>
+   <br>
+   <i class="fab fa-python fa-3x" style="color: #f9e487;"></i>
    <div class="desc"> python </div>
   </div>
   
    <div class="gallery">
-  <i class="fas fa-registered" style="color: #89E3F7;"></i>
+  <i class="fas fa-registered fa-3x" style="color: #89E3F7;"></i>
    <div class="desc"> python </div>
   </div>
   
    <div class="gallery">
-   <i class="fab fa-css3-alt" style="color: #5697CC;"></i>
+   <i class="fab fa-css3-alt fa-3x" style="color: #5697CC;"></i>
    <div class="desc"> python </div>
   </div>
+
+<br>
+<br>
   
 </html>
 
