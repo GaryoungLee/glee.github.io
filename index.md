@@ -57,6 +57,11 @@ sitemap:
 
 
 <html>
+  
+<h4> News </h4>
+
+  
+
 <h4> Education </h4>
 <ul class="ul-edu fa-ul"> 
     <li>
@@ -82,8 +87,63 @@ sitemap:
       </div>
     </li>
 </ul>
+  
+  
+<h4> Awards & Scholarship & Fellowship </h4>  
+<ul class="ul-edu fa-ul"> 
+    <li>
+      <i class="fa-li fas fa-award" style="color: #6d8c7e;"></i>
+      <div class="description">
+        <p class="course">D. J. Altobelli Fellowship </p>
+        <p class="institution">Georgia Institute of Technology, Aug. 2021</p>
+      </div>
+    </li>
 
+    <li>
+      <i class="fa-li fas fa-file-certificate" style="color: #6d8c7e;"></i>
+      <div class="description">
+        <p class="course">External Advisory Board Fellowship </p>
+        <p class="institution">Georgia Institute of Technology, Aug. 2021</p>
+      </div>
+    </li>
+  
+    <li>
+      <i class="fa-li fa fa-file-certificate" style="color: #6d8c7e;"></i>
+      <div class="description">
+        <p class="course"> Brain Korea 21 Scholarship </p>
+        <p class="institution">Mar. 2019 - Feb. 2021</p>
+      </div>
+    </li>
 
+    <li>
+      <i class="fa-li fas fa-medal" style="color: #6d8c7e;"></i>
+      <div class="description">
+        <p class="course"> Outstanding Undergraduate Dissertation Award (2nd Prize) </p>
+        <p class="institution">Department of Civil and Environmental Engineering, Seoul National University, Dec. 2018</p>
+      </div>
+    </li> 
+  
+    <li>
+      <i class="fa-li fas fa-medal" style="color: #6d8c7e;"></i>
+      <div class="description">
+        <p class="course"> Civil Structure Model Competition Award (Grand Prize)</p>
+        <p class="institution">Korean Society of Civil Engineering, Mar. 2017</p>
+      </div>
+    </li> 
+
+      <li>
+      <i class="fa-li fa fa-file-certificate" style="color: #6d8c7e;"></i>
+      <div class="description">
+        <p class="course"> Merit-based Scholarship </p>
+        <p class="course"> Second and Third Semester of Graduate School </p>
+        <p class="course"> Fourth, Fifth, and Seventh Semester of Undergraduate School </p>
+        <p class="institution">Seoul National University, South Korea</p>
+      </div>
+    </li>
+</ul>  
+  
+  
+  
 </html>
 
 <!-- Google tag (gtag.js) -->
