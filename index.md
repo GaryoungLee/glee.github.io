@@ -200,7 +200,6 @@ sitemap:
 <br>
 <h4> Skills </h4> 
  <div class="gallery">
-   <br>
    <i class="fab fa-python fa-3x" style="color: #f9e487;"></i>
    <div class="desc"> python </div>
   </div>
