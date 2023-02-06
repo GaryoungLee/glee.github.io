@@ -200,9 +200,16 @@ sitemap:
 <br>
 <h4> Skills </h4> 
  <div class="icons">
-   <i class="fa-li fas fa-hand-holding-water" style="color: #6d8c7e;"></i>
-   <i class="fa-li fas fa-hand-holding-water" style="color: #6d8c7e;"></i>
-   <i class="fa-li fas fa-hand-holding-water" style="color: #6d8c7e;"></i>
+   <br>
+   <i class="fab fa-python" style="color: #f9e487;"></i>
+   <i class="fas fa-registered" style="color: #89E3F7;"></i>
+   <i class="fab fa-css3-alt" style="color: #5697CC;"></i>
+ </div>
+ <div class="icons">
+   <br>
+   <p> python </p>
+   <p> R </p>
+   <p> CSS </p>
  </div>
   
   
