@@ -147,7 +147,7 @@ sitemap:
 <h4> Teaching </h4>  
 <ul class="ul-edu fa-ul"> 
     <li>
-      <i class="fa-li fas fa-person-chalkboard" style="color: #6d8c7e;"></i>
+      <i class="fa-li fas fa-pencil" style="color: #6d8c7e;"></i>
       <div class="description">
         <p class="course">Teaching Assistant, Georgia Institute of Technology </p>
         <p class="institution">CEE3770 Statistics and Applications, Fall 2022</p>
@@ -156,7 +156,7 @@ sitemap:
     </li>
 
     <li>
-      <i class="fa-li fas fa-person-chalkboard" style="color: #6d8c7e;"></i>
+      <i class="fa-li fas fa-pencil" style="color: #6d8c7e;"></i>
       <div class="description">
         <p class="course">Teaching Assistant, Seoul National University </p>
         <p class="institution">Transportation Optimization Techniques, Spring 2020</p>
