@@ -101,15 +101,6 @@ th {
     background-color: #dddddd;
   }
 
-.icons{
-
-display: grid;
-
-grid-template-columns: auto auto auto auto;
-
-column-gap: 10px;
-
-}
 
 
 
@@ -167,6 +158,13 @@ a.logo:hover {
 .social-links__entry {
   display: inline-block;
   margin-left: 10px;
+}
+
+.icons {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  column-gap: 10px;
+
 }
 
 /* =Titles */ /*************************************************************/
