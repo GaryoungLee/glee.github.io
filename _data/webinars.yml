@@ -11,8 +11,7 @@
   id: p2
   img_src: /assets/img/0527 Anshuman_thumbnail-01.png
   description_less: >
-  description_more: <p>Assessing traffic disturbance, efficiency, and safety of the mixed traffic flow of connected vehicles and traditional vehicles by considering human factors
-</p>
+  description_more: <p>Assessing traffic disturbance, efficiency, and safety of the mixed traffic flow of connected vehicles and traditional vehicles by considering human factors</p>
   action_buttons: >
     <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i>Video</a>
   tags: [Traffic-Flow]
