@@ -5,7 +5,6 @@
   description_more: > 
   action_buttons: > 
     <a href="MFD" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-file"></i>Video</a>
-  
   tags: [] # A list of tags
 
 - name: 2022/05/27 Anshuman Sharma
