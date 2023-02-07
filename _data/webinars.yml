@@ -20,8 +20,7 @@
   id: p3
   img_src: /assets/img/230203 Jiawei Lu_thumbnail-01.png
   description_less: >
-  description_more: <p>Joint freeway traffic state and queue profile estimation using heterogeneous data sources-Differentiable programming reformulation on a layered computational graph
-</p>
+  description_more: <p>Joint freeway traffic state and queue profile estimation using heterogeneous data sources-Differentiable programming reformulation on a layered computational graph</p>
   action_buttons: >
     <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i>Video</a>
   tags: [Traffic-Flow]
