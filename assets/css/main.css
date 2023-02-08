@@ -39,15 +39,21 @@ dl {
 
 h1,
 h2,
-h3,
-h4,
-h5,
-h6 {
+h3 {
   color: #2e4230;
   padding-top: 5px;
   font-family: 'Lato';
   font-weight: 800;
   font-style: italic;
+}
+h4,
+h5,
+h6 {
+  color: #39513a;
+  padding-top: 5px;
+  font-family: 'Lato';
+  font-weight: 500;
+  font-style: normal;
 }
 
 img {
