@@ -715,3 +715,9 @@ ul.ul-edu li .description p.institution {
     text-shadow: -1px 0 0 blue, 1px 0 0 lime;
   }
 }
+
+
+
+.MathJax_Display {
+  font-style: italic;
+}
