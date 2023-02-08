@@ -107,6 +107,13 @@ sitemap:
         <p class="institution">Georgia Institute of Technology, Aug. 2021</p>
       </div>
     </li>
+      <li>
+      <i class="fa-li fas fa-medal" style="color: #6d8c7e;"></i>
+      <div class="description">
+        <p class="course">Best Paper Award </p>
+        <p class="institution">Korean Transportation Association in America (KOTAA) 2021 Annual meeting, Jan. 2021</p>
+      </div>
+    </li>
   
     <li>
       <i class="fa-li fa fa-award" style="color: #6d8c7e;"></i>
