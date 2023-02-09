@@ -217,33 +217,33 @@ sitemap:
   </div>
   
   <div class="gallery">
-   <img src="/assets/img/mathematica.png"/>
+   <img src="assets/img/mathematica.png"/>
    <div class="desc"> Mathematica </div>
   </div>
   
    <div class="gallery">
-   <img src="/assets/img/sumo.png"/>
+   <img src="assets/img/sumo.png"/>
    <div class="desc"> SUMO </div>
   </div>
   
    <div class="gallery">
-   <img src="/assets/img/arcgispro.png"/>
+   <img src="assets/img/arcgispro.png"/>
    <div class="desc"> ArcGis Pro </div>
   </div>
   
  
    <div class="gallery">
-   <img src="/assets/img/illustrator.png"/>
+   <img src="assets/img/illustrator.png"/>
    <div class="desc"> Illustrator </div>
   </div>
   
   <div class="gallery">
-   <img src="/assets/img/Photoshop.png"/>
+   <img src="assets/img/Photoshop.png"/>
    <div class="desc"> Photoshop </div>
   </div>
   
   <div class="gallery">
-   <img src="/assets/img/InDesign.png"/>
+   <img src="assets/img/InDesign.png"/>
    <div class="desc"> InDesign </div>
   </div>
 
