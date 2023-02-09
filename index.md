@@ -208,43 +208,43 @@ sitemap:
 <h4> Skills </h4> 
  <div class="gallery">
    <i class="fab fa-python fa-3x" style="color: #f9e487;"></i>
-   <div class="desc"> Python </div>
+   <div class="desc">Python </div>
   </div>
   
    <div class="gallery">
   <i class="fas fa-registered fa-3x" style="color: #89E3F7;"></i>
-   <div class="desc"> R </div>
+   <div class="desc">R </div>
   </div>
   
   <div class="gallery">
    <img src="assets/img/mathematica.png"/>
-   <div class="desc"> Mathematica </div>
+   <div class="desc">Mathematica </div>
   </div>
   
    <div class="gallery">
    <img src="assets/img/sumo.png"/>
-   <div class="desc"> SUMO </div>
+   <div class="desc">SUMO </div>
   </div>
   
    <div class="gallery">
    <img src="assets/img/arcgispro.png"/>
-   <div class="desc"> ArcGis Pro </div>
+   <div class="desc">ArcGis Pro </div>
   </div>
   
  
    <div class="gallery">
    <img src="assets/img/illustrator.png"/>
-   <div class="desc"> Illustrator </div>
+   <div class="desc">Illustrator </div>
   </div>
   
   <div class="gallery">
    <img src="assets/img/Photoshop.png"/>
-   <div class="desc"> Photoshop </div>
+   <div class="desc">Photoshop </div>
   </div>
   
   <div class="gallery">
    <img src="assets/img/InDesign.png"/>
-   <div class="desc"> InDesign </div>
+   <div class="desc">InDesign </div>
   </div>
 
 <br>
