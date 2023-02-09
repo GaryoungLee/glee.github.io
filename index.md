@@ -216,9 +216,35 @@ sitemap:
    <div class="desc"> R </div>
   </div>
   
+  <div class="gallery">
+   <img src="/assets/img/mathematica.png"/>
+   <div class="desc"> Mathematica </div>
+  </div>
+  
    <div class="gallery">
-   <i class="fab fa-css3-alt fa-3x" style="color: #5697CC;"></i>
-   <div class="desc"> CSS </div>
+   <img src="/assets/img/sumo.png"/>
+   <div class="desc"> SUMO </div>
+  </div>
+  
+   <div class="gallery">
+   <img src="/assets/img/arcgispro.png"/>
+   <div class="desc"> ArcGis Pro </div>
+  </div>
+  
+ 
+   <div class="gallery">
+   <img src="/assets/img/illustrator.png"/>
+   <div class="desc"> Illustrator </div>
+  </div>
+  
+  <div class="gallery">
+   <img src="/assets/img/Photoshop.png"/>
+   <div class="desc"> Photoshop </div>
+  </div>
+  
+  <div class="gallery">
+   <img src="/assets/img/InDesign.png"/>
+   <div class="desc"> InDesign </div>
   </div>
 
 <br>
