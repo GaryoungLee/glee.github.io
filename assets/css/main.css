@@ -176,16 +176,18 @@ a.logo:hover {
 }
 
 .gallery {
-  margin: 5px;
+  margin: 47px;
   float: left;
-  width: 180px;
+  width: 100px;
+  padding: 24px;
   text-align: center;
 }
 
 
 .desc {
-  padding: 15px;
+  padding: 0px;
   text-align: center;
+  text-size: x-small;
 }
 
 /* =Titles */ /*************************************************************/
