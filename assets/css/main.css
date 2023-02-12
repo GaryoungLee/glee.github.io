@@ -190,6 +190,10 @@ a.logo:hover {
   font-size: x-small;
 }
 
+.clearfix {
+  clear: both;
+}
+
 /* =Titles */ /*************************************************************/
 .page-title {
   margin: 30px auto;
