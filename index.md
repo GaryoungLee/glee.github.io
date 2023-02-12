@@ -206,6 +206,7 @@ sitemap:
   
 <br>
 <h4> Skills </h4> 
+<body>
  <div class="gallery">
    <i class="fab fa-python fa-3x" style="color: #f9e487;"></i>
    <div class="desc">Python </div>
@@ -246,7 +247,7 @@ sitemap:
    <img src="assets/img/InDesign.png"/>
    <div class="desc">InDesign </div>
   </div>
-
+</body>
 <br>
 <br>
   
