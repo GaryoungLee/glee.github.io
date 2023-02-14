@@ -228,7 +228,7 @@ sitemap:
   </div>
   
    <div class="gallery">
-   <img src="assets/img/arcgispro.png"/>
+   <img src="assets/img/arcgispro.png" style="width: 49px; height: 54px;"/>
    <div class="desc">ArcGis Pro </div>
   </div>
   
