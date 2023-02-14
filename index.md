@@ -206,7 +206,7 @@ sitemap:
   
 <br>
 <h4> Skills </h4> 
-<body>
+
  <div class="gallery">
    <i class="fab fa-python fa-3x" style="color: #f9e487;"></i>
    <div class="desc">Python </div>
@@ -222,6 +222,8 @@ sitemap:
    <div class="desc">Mathematica </div>
   </div>
   
+  <div class="clearfix"></div>
+  
    <div class="gallery">
    <img src="assets/img/sumo.png"/>
    <div class="desc">SUMO </div>
@@ -232,7 +234,7 @@ sitemap:
    <div class="desc">ArcGis Pro </div>
   </div>
   
- 
+ <div class="clearfix"></div>
    <div class="gallery">
    <img src="assets/img/illustrator.png"/>
    <div class="desc">Illustrator </div>
@@ -247,7 +249,7 @@ sitemap:
    <img src="assets/img/InDesign.png"/>
    <div class="desc">InDesign </div>
   </div>
-</body>
+
 <div class="clearfix"></div>
 </html>
 
