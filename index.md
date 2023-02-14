@@ -248,9 +248,7 @@ sitemap:
    <div class="desc">InDesign </div>
   </div>
 </body>
-<br>
-<br>
-  
+<div class="clearfix"></div>
 </html>
 
 <div class="clearfix"></div>
