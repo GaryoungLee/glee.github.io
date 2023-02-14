@@ -10,7 +10,7 @@
 
 - name: Car-following Features of Adaptive Cruise Control Vehicles using Two-regime Stochastic Car-following Model
   id: p2
-  img_src: >
+  img_src: /assets/img/acc.png >
   description_less: 2023 Spring (WIP)
   description_more: >
   action_buttons: >
