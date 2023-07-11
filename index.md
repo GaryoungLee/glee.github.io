@@ -44,9 +44,9 @@ sitemap:
     <div class="container">
       <img class="image" src="assets/img/headshot_lightgreen-03.png">
       <div class="text">
-             <p class="describe-text">Hi 👋🏻 I am a PhD student working with Dr. <a href="Laval">Jorge Laval</a> in the School of Civil and Environmental Engineering at the <a href="GT">Georgia Institute of Technology</a> 🐝. </p>
+             <p class="describe-text">Hi 👋🏻 I am a PhD student working with Dr. <a href="https://sites.gatech.edu/ce-trafficlab/">Jorge Laval</a> in the School of Civil and Environmental Engineering at the <a href="GT">Georgia Institute of Technology</a> 🐝. </p>
               <p>Under the specific focus on <a href="tags/Traffic-Flow" style="background-color: #6d8c7e;" class="badge badge-primary">Traffic-Flow</a>, my research interests include <a href="tags/Self-Driving" style="background-color: #6d8c7e;" class="badge badge-primary">Self-Driving</a>, <a href="tags/ACC" style="background-color: #6d8c7e;" class="badge badge-primary">ACC</a>, <a href="tags/Car-following" style="background-color: #6d8c7e;" class="badge badge-primary">Car-following</a>, and <a href="tags/MFD" style="background-color: #6d8c7e;" class="badge badge-primary">MFD</a>. </p>
-              <p> 🚧 WIP with my website 🚧. </p>
+              
           </div> 
     </div>
   </body>
@@ -176,6 +176,13 @@ sitemap:
 <br>
 <h4> Extracurricular</h4> 
 <ul class="ul-edu fa-ul"> 
+    <li>
+      <i class="fa-li fas fa-hand-holding-heart" style="color: #6d8c7e;"></i>
+      <div class="description">
+        <p class="course"><a href="https://ite.ce.gatech.edu/">ITE@GT (Georgia Tech Student Chapter of the Institute of Transportation Engineers)</a> </p>
+        <p class="institution">Social Outreach 2023-2024</p>
+      </div>
+    </li>
     <li>
       <i class="fa-li fas fa-hand-holding-heart" style="color: #6d8c7e;"></i>
       <div class="description">
