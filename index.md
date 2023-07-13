@@ -185,7 +185,7 @@ sitemap:
       <i class="fa-li fas fa-hand-holding-heart" style="color: #6d8c7e;"></i>
       <div class="description">
         <p class="course"><a href="https://ite.ce.gatech.edu/">ITE@GT (Georgia Tech Student Chapter of the Institute of Transportation Engineers)</a> </p>
-        <p class="institution">Social Outreach 2023-2024</p>
+        <p class="institution">Social Outreach Director 2023-2024</p>
       </div>
     </li>
     <li>
