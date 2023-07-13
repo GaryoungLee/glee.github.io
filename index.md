@@ -59,7 +59,7 @@ sitemap:
 <html>
   
 <h4> News </h4>
-<ul> 
+<ul class="ul-edu fa-ul"> 
   <li> 
     <i class="fa-li fas fa-unicorn" style="color: #6d848c;"></i>
     <div class="description">
