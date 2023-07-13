@@ -59,7 +59,12 @@ sitemap:
 <html>
   
 <h4> News </h4>
+<ul> 
+  <li> [Jul 2023] The paper "A Global Search Problem on the Calibration of Two-regime Stochastic Car-following Model" is accepted to the 26th IEEE International Conference on Intelligent Transportation Systems ITSC 2023 </li>
+  <li> [Jul 2023] The paper "Effects of Loop Detector Position on the Macroscopic Fundamental Diagram" is accepted to the journal Transporation Research Part C. </li>
+  <li> [May 2023] I started to serve as a Social Outreach Officer at ITE Georgia Tech Student Chapter! </li>
 
+</ul>
   
 
 <h4> Education </h4>
