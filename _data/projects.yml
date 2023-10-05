@@ -17,7 +17,7 @@
   description_more: >
   action_buttons: >
     <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp Download</a>
-  tags: [ACC, Car-following, Traffic-Flow]
+  tags: [Car-following, Traffic-Flow]
 
 
 - name: Difference in Commercial ACC Car-Following Behavior and How to Overcome Calibration Challenges.
