@@ -63,13 +63,13 @@ sitemap:
   <li> 
     <i class="fa-li fas fa-unicorn" style="color: #6d848c;"></i>
     <div class="description">
-        <p class="course">[Jul 2023] The paper "A Global Search Problem on the Calibration of Two-regime Stochastic Car-following Model" is accepted to the 26th IEEE International Conference on Intelligent Transportation Systems ITSC 2023</p>
+        <p class="course">[Sep 2023] The paper "A Global Search Problem on the Calibration of Two-regime Stochastic Car-following Model" was presented at the 26th IEEE International Conference on Intelligent Transportation Systems ITSC 2023</p>
     </div>
    </li>
     <li> 
     <i class="fa-li fas fa-unicorn" style="color: #6d848c;"></i>
     <div class="description">
-        <p class="course">[Jul 2023] The paper "Effects of Loop Detector Position on the Macroscopic Fundamental Diagram" is accepted to the journal Transporation Research Part C</p>
+        <p class="course">[Jul 2023] The paper "Effects of Loop Detector Position on the Macroscopic Fundamental Diagram" was published in the journal Transporation Research Part C</p>
     </div>
    </li>
     <li> 
