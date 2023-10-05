@@ -177,6 +177,7 @@ sitemap:
       <i class="fa-li fas fa-pencil" style="color: #6d8c7e;"></i>
       <div class="description">
         <p class="course">Teaching Assistant, Georgia Institute of Technology </p>
+        <p class="institution">CEE3770 Statistics and Applications, Fall 2023</p>
         <p class="institution">CEE3770 Statistics and Applications, Fall 2022</p>
         <p class="institution">CEE3770 Statistics and Applications, Fall 2021</p>
       </div>
