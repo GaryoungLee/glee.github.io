@@ -8,8 +8,10 @@ sitemap:
   priority: 0.9
 ---
 
+{% assign projects = site.data.projects %}
 
-
+{% include project/project_loop.html %}
+<br>
 
 <h4> Publications </h6>
 <ul class="ul-edu fa-ul">
@@ -72,9 +74,7 @@ sitemap:
 <br>
 <br>
 
-{% assign projects = site.data.projects %}
 
-{% include project/project_loop.html %}
 
 
 
