@@ -1,20 +1,29 @@
 - name: Effects of Loop Detector Position on the Macroscopic Fundamental Diagram # Project name, also used as heading
-  id: p1 # Project id, must be unique amongst the projects
-  img_src: /assets/img/MFDposter.png # Optional image
-  description_less: 2022 Fall (Under Review) # Description shown at all times, text only
-  description_more: > # Description shown only when the project card is expanded, HTML only
-  action_buttons: > # Action buttons for project, HTML only
-    <a href="MFD" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-file"></i> &nbsp Preprint</a>
+  id: p1 
+  img_src: /assets/img/MFDposter.png 
+  description_less: Transportation Research Part C 
+  description_more: > 
+  action_buttons: > 
+    <a href="https://doi.org/10.1016/j.trc.2023.104239" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-file"></i> &nbsp Download</a>
   
   tags: [MFD, Traffic-Flow] # A list of tags
 
-- name: Car-following Features of Adaptive Cruise Control Vehicles using Two-regime Stochastic Car-following Model
+
+- name: A Global Search Problem on the Calibration of Two-regime Stochastic Car-following Model
   id: p2
   img_src: /assets/img/acc.png
-  description_less: 2023 Spring (WIP)
+  description_less: IEEE ITSC 2023.
   description_more: >
   action_buttons: >
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp Download</a>
   tags: [ACC, Car-following, Traffic-Flow]
 
+
+- name: Difference in Commercial ACC Car-Following Behavior and How to Overcome Calibration Challenges.
+  id: p3
+  img_src: /assets/img/acc.png
+  description_less: 2024 TRBAM.
+  description_more: >
+  action_buttons: >
+
+  tags: [ACC, Car-following, Traffic-Flow]
