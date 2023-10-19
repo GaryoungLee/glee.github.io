@@ -12,7 +12,7 @@
 
 - name: A Global Search Problem on the Calibration of Two-regime Stochastic Car-following Model
   id: p2
-  img_src: /assets/img/acc.png
+  img_src: /assets/img/global.png
   description_less: IEEE ITSC 2023.
   description_more: >
   action_buttons: >
