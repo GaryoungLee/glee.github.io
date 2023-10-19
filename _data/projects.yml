@@ -16,8 +16,8 @@
   description_less: IEEE ITSC 2023.
   description_more: >
   action_buttons: >
-  <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp Paper</a>
-  <a href="https://drive.google.com/file/d/1zZdOejBkQFT-dT_I1b-SWuH8ReRY6165/view?usp=share_link" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp PPT</a>
+    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp Paper</a>
+    <a href="https://drive.google.com/file/d/1zZdOejBkQFT-dT_I1b-SWuH8ReRY6165/view?usp=share_link" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp PPT</a>
   tags: [Car-following, Traffic-Flow]
 
 
