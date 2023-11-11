@@ -69,7 +69,7 @@ sitemap:
     <li> 
     <i class="fa-li fas fa-unicorn" style="color: #6d848c;"></i>
     <div class="description">
-        <p class="course">[Jul 2023] The paper "Effects of Loop Detector Position on the Macroscopic Fundamental Diagram" was published in the journal Transporation Research Part C</p>
+        <p class="course">[Jul 2023] The paper "Effects of Loop Detector Position on the Macroscopic Fundamental Diagram" was published in the Transporation Research Part C</p>
     </div>
    </li>
     <li> 
@@ -112,6 +112,13 @@ sitemap:
   
 <h4> Awards & Scholarship & Fellowship </h4>  
 <ul class="ul-edu fa-ul"> 
+    <li>
+      <i class="fa-li fas fa-award" style="color: #6d8c7e;"></i>
+      <div class="description">
+        <p class="course">Next Generation Science & Technology Leader NET Grant </p>
+        <p class="institution">The Korean Federation of Science and Technology Societies (KOFST), May 2023 - Dec 2023</p>
+      </div>
+    </li>
     <li>
       <i class="fa-li fas fa-award" style="color: #6d8c7e;"></i>
       <div class="description">
