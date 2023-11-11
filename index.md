@@ -115,7 +115,7 @@ sitemap:
     <li>
       <i class="fa-li fas fa-award" style="color: #6d8c7e;"></i>
       <div class="description">
-        <p class="course">Next Generation Science & Technology Leader NET Grant </p>
+        <p class="course"> Next Generation Science & Technology Leader NET Grant </p>
         <p class="institution">The Korean Federation of Science and Technology Societies (KOFST), May 2023 - Dec 2023</p>
       </div>
     </li>
