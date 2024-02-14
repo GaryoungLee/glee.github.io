@@ -45,7 +45,7 @@ sitemap:
       <img class="image" src="assets/img/headshot_lightgreen-03.png">
       <div class="text">
              <p class="describe-text">Hi 👋🏻 I am a PhD student working with Dr. <a href="https://sites.gatech.edu/ce-trafficlab/">Jorge Laval</a> in the School of Civil and Environmental Engineering at the <a href="GT">Georgia Institute of Technology</a> 🐝. </p>
-              <p>Under the specific focus on <a href="tags/Traffic-Flow" style="background-color: #6d8c7e;" class="badge badge-primary">Traffic-Flow</a>, my research interests include <a href="tags/Self-Driving" style="background-color: #6d8c7e;" class="badge badge-primary">Self-Driving</a>, <a href="tags/ACC" style="background-color: #6d8c7e;" class="badge badge-primary">ACC</a>, <a href="tags/Car-following" style="background-color: #6d8c7e;" class="badge badge-primary">Car-following</a>, and <a href="tags/MFD" style="background-color: #6d8c7e;" class="badge badge-primary">MFD</a>. </p>
+              <p>Under the specific focus on <a href="tags/Traffic-Flow" style="background-color: #6d8c7e;" class="badge badge-primary">Traffic-Flow</a>, my research interests include <a href="tags/Self-Driving" style="background-color: #6d8c7e;" class="badge badge-primary">Self-Driving</a>, <a href="tags/ACC" style="background-color: #6d8c7e;" class="badge badge-primary">ACC</a>, <a href="tags/Car-following" style="background-color: #6d8c7e;" class="badge badge-primary">Car-following</a>, and <a href="tags/MFD" style="background-color: #6d8c7e;" class="badge badge-primary">MFD</a>. Most recently, I am working on the critical phenomena of traffic flow. </p>
               
           </div> 
     </div>
@@ -60,6 +60,12 @@ sitemap:
   
 <h4> News </h4>
 <ul class="ul-edu fa-ul"> 
+   <li> 
+    <i class="fa-li fas fa-unicorn" style="color: #6d848c;"></i>
+    <div class="description">
+        <p class="course">[Jan 2024] I was selected as a recipient of the 2024 Babs Abubakari Memorial Scholarship </p>
+    </div>
+   </li>
   <li> 
     <i class="fa-li fas fa-unicorn" style="color: #6d848c;"></i>
     <div class="description">
@@ -75,7 +81,7 @@ sitemap:
     <li> 
     <i class="fa-li fas fa-unicorn" style="color: #6d848c;"></i>
     <div class="description">
-        <p class="course">[May 2023] I started to serve as a Social Outreach Officer at ITE Georgia Tech Student Chapter!</p>
+        <p class="course">[May 2023] I started to serve as a Social Outreach Officer at ITE Georgia Tech Student Chapter!</p>
     </div>
    </li>
 
@@ -88,6 +94,13 @@ sitemap:
       <i class="fa-li fas fa-carrot" style="color: #6d8c7e;"></i>
       <div class="description">
         <p class="course">Ph.D. in Civil and Environmental Engineering, (2021 ~ )</p>
+        <p class="institution">Georgia Institute of Technology</p>
+      </div>
+    </li>
+    <li>
+      <i class="fa-li fas fa-carrot" style="color: #6d8c7e;"></i>
+      <div class="description">
+        <p class="course">M.S. in Computational Science and Engineering, (2023 ~ )</p>
         <p class="institution">Georgia Institute of Technology</p>
       </div>
     </li>
