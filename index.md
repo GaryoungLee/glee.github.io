@@ -60,6 +60,12 @@ sitemap:
   
 <h4> News </h4>
 <ul class="ul-edu fa-ul"> 
+    <li> 
+    <i class="fa-li fas fa-unicorn" style="color: #6d848c;"></i>
+    <div class="description">
+        <p class="course">[Feb 2024] I was selected as a recipient of the 2024 CEE Future Faculty Fellowship </p>
+    </div>
+   </li>
    <li> 
     <i class="fa-li fas fa-unicorn" style="color: #6d848c;"></i>
     <div class="description">
@@ -125,6 +131,13 @@ sitemap:
   
 <h4> Awards & Scholarship & Fellowship </h4>  
 <ul class="ul-edu fa-ul"> 
+      <li>
+      <i class="fa-li fas fa-award" style="color: #6d8c7e;"></i>
+      <div class="description">
+        <p class="course"> 2024 CEE Future Faculty Fellowship </p>
+        <p class="institution">Georgia Tech, Feb 2024</p>
+      </div>
+    </li>
     <li>
       <i class="fa-li fas fa-award" style="color: #6d8c7e;"></i>
       <div class="description">
