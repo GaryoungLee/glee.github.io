@@ -217,6 +217,7 @@ sitemap:
       <i class="fa-li fas fa-pencil" style="color: #6d8c7e;"></i>
       <div class="description">
         <p class="course">Teaching Assistant, Georgia Institute of Technology </p>
+        <p class="institution">CEE6632 Simulation in Transport, Spring 2024</p>
         <p class="institution">CEE3770 Statistics and Applications, Fall 2023</p>
         <p class="institution">CEE3770 Statistics and Applications, Fall 2022</p>
         <p class="institution">CEE3770 Statistics and Applications, Fall 2021</p>
@@ -241,7 +242,7 @@ sitemap:
       <i class="fa-li fas fa-hand-holding-heart" style="color: #6d8c7e;"></i>
       <div class="description">
         <p class="course"><a href="https://ite.ce.gatech.edu/">ITE@GT (Georgia Tech Student Chapter of the Institute of Transportation Engineers)</a> </p>
-        <p class="institution">Social Outreach Director 2023-2024</p>
+        <p class="institution">Social Outreach Director 2023-2025</p>
       </div>
     </li>
     <li>
