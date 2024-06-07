@@ -31,10 +31,10 @@
   tags: [ACC, Car-following, Traffic-Flow]
 
 
-- name: Empirical Evidence on the Criticality of Traffic Congestion.
+- name: Empirical Verification that Traffic Flow is on the KPZ Universality Class: Implications for Traffic Congestion
   id: p3
   img_src: 
-  description_less: WIP
+  description_less: Submitted to TRC-30
   description_more: >
   action_buttons: >
 
