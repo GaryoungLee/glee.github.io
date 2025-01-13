@@ -16,7 +16,7 @@ sitemap:
         align-items: left;
       }
       .image {
-        max-width: 40%;
+        max-width: 30%;
         height: auto;
       }
       .text {
@@ -45,7 +45,7 @@ sitemap:
       <img class="image" src="assets/img/headshot_lightgreen-03.png">
       <div class="text">
              <p class="describe-text">Hi 👋🏻 I am a PhD student working with Dr. <a href="https://sites.gatech.edu/ce-trafficlab/">Jorge Laval</a> in the School of Civil and Environmental Engineering at the <a href="GT">Georgia Institute of Technology</a> 🐝. </p>
-              <p>Under the specific focus on <a href="tags/Traffic-Flow" style="background-color: #6d8c7e;" class="badge badge-primary">Traffic-Flow</a>, my research interests include <a href="tags/Self-Driving" style="background-color: #6d8c7e;" class="badge badge-primary">Self-Driving</a>, <a href="tags/ACC" style="background-color: #6d8c7e;" class="badge badge-primary">ACC</a>, <a href="tags/Car-following" style="background-color: #6d8c7e;" class="badge badge-primary">Car-following</a>, and <a href="tags/MFD" style="background-color: #6d8c7e;" class="badge badge-primary">MFD</a>. Most recently, I am working on the critical phenomena of traffic flow. </p>
+              <p>Under the specific focus on <a href="tags/Traffic-Flow" style="background-color: #6d8c7e;" class="badge badge-primary">Traffic-Flow</a>, my research interests include <a href="tags/Complex-system" style="background-color: #6d8c7e;" class="badge badge-primary">Complex System</a>, <a href="tags/Self-Driving" style="background-color: #6d8c7e;" class="badge badge-primary">Self-Driving</a>, <a href="tags/ACC" style="background-color: #6d8c7e;" class="badge badge-primary">ACC</a>, <a href="tags/Car-following" style="background-color: #6d8c7e;" class="badge badge-primary">Car-following</a>, and <a href="tags/MFD" style="background-color: #6d8c7e;" class="badge badge-primary">MFD</a>. Most recently, I have been working on the critical phenomena of traffic flow and its control using reinforcement learning. </p>
               
           </div> 
     </div>
@@ -60,6 +60,24 @@ sitemap:
   
 <h4> News </h4>
 <ul class="ul-edu fa-ul"> 
+      <li> 
+    <i class="fa-li fas fa-unicorn" style="color: #6d848c;"></i>
+    <div class="description">
+        <p class="course">[Jan 2025] I presented my paper at TRBAM 2025 and got an Excellent Presentation Award from KOTAA </p>
+    </div>
+   </li>
+      <li> 
+    <i class="fa-li fas fa-unicorn" style="color: #6d848c;"></i>
+    <div class="description">
+        <p class="course">[Sep 2024] I presented my paper at TRC-30 Conference</p>
+    </div>
+   </li>
+    <li> 
+    <i class="fa-li fas fa-unicorn" style="color: #6d848c;"></i>
+    <div class="description">
+        <p class="course">[May 2024] I continue to serve as a Social Outreach Officer at ITE Georgia Tech Student Chapter!</p>
+    </div>
+   </li>
     <li> 
     <i class="fa-li fas fa-unicorn" style="color: #6d848c;"></i>
     <div class="description">
@@ -78,18 +96,7 @@ sitemap:
         <p class="course">[Sep 2023] The paper "A Global Search Problem on the Calibration of Two-regime Stochastic Car-following Model" was presented at the 26th IEEE International Conference on Intelligent Transportation Systems ITSC 2023</p>
     </div>
    </li>
-    <li> 
-    <i class="fa-li fas fa-unicorn" style="color: #6d848c;"></i>
-    <div class="description">
-        <p class="course">[Jul 2023] The paper "Effects of Loop Detector Position on the Macroscopic Fundamental Diagram" was published in the Transporation Research Part C</p>
-    </div>
-   </li>
-    <li> 
-    <i class="fa-li fas fa-unicorn" style="color: #6d848c;"></i>
-    <div class="description">
-        <p class="course">[May 2023] I started to serve as a Social Outreach Officer at ITE Georgia Tech Student Chapter!</p>
-    </div>
-   </li>
+
 
 </ul>
   
@@ -106,7 +113,7 @@ sitemap:
     <li>
       <i class="fa-li fas fa-carrot" style="color: #6d8c7e;"></i>
       <div class="description">
-        <p class="course">M.S. in Computational Science and Engineering, (2023 ~ )</p>
+        <p class="course">M.S. in Computational Science and Engineering, (2023 ~ 2025)</p>
         <p class="institution">Georgia Institute of Technology</p>
       </div>
     </li>
@@ -217,6 +224,9 @@ sitemap:
       <i class="fa-li fas fa-pencil" style="color: #6d8c7e;"></i>
       <div class="description">
         <p class="course">Teaching Assistant, Georgia Institute of Technology </p>
+        <p class="institution">CEE4803 Complex Systems in CEE, Spring 2025</p>
+        <p class="institution">CEE6636 Traffic Flow Theory, Spring 2025</p>
+        <p class="institution">CEE3770 Statistics and Applications, Fall 2024</p>
         <p class="institution">CEE6632 Simulation in Transport, Spring 2024</p>
         <p class="institution">CEE3770 Statistics and Applications, Fall 2023</p>
         <p class="institution">CEE3770 Statistics and Applications, Fall 2022</p>
